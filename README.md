@@ -1,1 +1,1 @@
-# simpleAPI (In progress)
+# Simple CRUD (In progress)
